@@ -4,7 +4,7 @@ using System;
 	using NUnit.Framework;
 #endif 
 
-//fetch new version from remote server
+
 namespace CardGames.GameLogic
 {
 	/// <summary>
