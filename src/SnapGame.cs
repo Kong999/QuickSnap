@@ -4,6 +4,7 @@ using CardGames.GameLogic;
 
 namespace CardGames
 {
+	//test here
     public class SnapGame
     {
         public static void LoadResources()
